@@ -1,4 +1,4 @@
-/***************************************************************************
+/***************************************************************************{{{
  *   Copyright (C) 2008-2021 by Andrzej Rybczak                            *
  *   andrzej@rybczak.net                                                   *
  *                                                                         *
@@ -16,7 +16,7 @@
  *   along with this program; if not, write to the                         *
  *   Free Software Foundation, Inc.,                                       *
  *   51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA.              *
- ***************************************************************************/
+ ***************************************************************************//*}}}*/
 
 #ifndef NCMPCPP_UTILITY_SHARED_RESOURCE_H
 #define NCMPCPP_UTILITY_SHARED_RESOURCE_H

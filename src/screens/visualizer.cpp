@@ -83,7 +83,7 @@ Visualizer::Visualizer()
   HZ_MIN(Config.visualizer_spectrum_hz_min),
   HZ_MAX(Config.visualizer_spectrum_hz_max),
   GAIN(Config.visualizer_spectrum_gain),
-  SMOOTH_CHARS(ToWString("▁▂▃▄▅▆▇█"))
+  SMOOTH_CHARS(ToWString("_-+[]-09"))
 #endif
 {
 	InitDataSource();
